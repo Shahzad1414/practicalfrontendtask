@@ -38,3 +38,20 @@
   border:none;
   
 }
+
+.head-row{
+  display:flex;
+  flex-direction:row;
+  justify-items:start;
+  align-items:center;
+  height:80px;
+  border-bottom:1px solid #d7d7d7;
+  width:900px;
+}
+
+.head{
+  display:flex;
+  align-items:center;
+  padding-right:24px;
+  min-width:300px;
+}
